@@ -1,5 +1,5 @@
 # My Chat App
-This is a simple chat application built with ReactJS, Material UI 6, and Socket.IO.
+This is a simple chat application built with ReactJS, Material UI 5, and Socket.IO.
 
 ## Prerequisites
 Before running the application, you will need to have the following:
